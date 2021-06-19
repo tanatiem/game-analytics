@@ -1,3 +1,3 @@
 # game-analytics
 
-[design](./design.jpg)
+![design](./design.jpg)
